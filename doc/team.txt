@@ -29,7 +29,3 @@ CCID:
 Name:
 GitHub: HassaanAhmedFazli
 ------------------------------------
-  Member #6
-CCID: N/A
-Name: N/A
-GitHub: N/A
