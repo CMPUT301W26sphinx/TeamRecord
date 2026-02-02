@@ -21,11 +21,11 @@ GitHub: nzapisocki
 ------------------------------------
   Member #4
 CCID: 
-Name:
+Name: 
 GitHub: Hammad449
 ------------------------------------
   Member #5
-CCID: 
-Name:
+CCID: hafazli
+Name: Hassaan Ahmed Fazli
 GitHub: HassaanAhmedFazli
 ------------------------------------
