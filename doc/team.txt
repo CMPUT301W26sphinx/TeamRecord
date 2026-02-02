@@ -1,0 +1,30 @@
+------------------------------------
+  Member #1
+CCID: augerlaf
+Name: Jaylin Auger-LaFleur
+GitHub user: LaFleurJ
+------------------------------------
+  Member #2
+CCID: iyip
+Name: Ivan Yip
+GitHub user: AsunaIsYip
+------------------------------------
+  Member #3
+CCID: bjonatha
+Name: Bryan Jonathan
+GitHub user: NotDeoxide
+------------------------------------
+  Member #4
+CCID: nzapisoc
+Name: Noah Zapisocki
+GitHub: nzapisocki
+------------------------------------
+  Member #4
+CCID: 
+Name:
+GitHub: Hammad449
+------------------------------------
+  Member #5
+CCID: 
+Name:
+GitHub: HassaanAhmedFazli
