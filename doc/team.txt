@@ -20,8 +20,8 @@ Name: Noah Zapisocki
 GitHub: nzapisocki
 ------------------------------------
   Member #4
-CCID: 
-Name: 
+CCID: smhammad
+Name: Syed Hammad
 GitHub: Hammad449
 ------------------------------------
   Member #5
